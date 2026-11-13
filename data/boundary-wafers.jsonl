@@ -1,0 +1,3 @@
+{"campaign": 1, "id": "w1", "notch_degrees": 0, "parent": "m1", "product": "p1"}
+{"campaign": 1, "id": "w2", "notch_degrees": 90, "parent": "m1", "product": "p1"}
+{"campaign": 2, "id": "w3", "notch_degrees": 0, "parent": "m2", "product": "p1"}

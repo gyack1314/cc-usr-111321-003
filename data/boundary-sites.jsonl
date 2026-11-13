@@ -1,0 +1,12 @@
+{"failed": true, "id": "w1-0", "observed": true, "wafer": "w1", "x": -0.6, "y": 0}
+{"failed": false, "id": "w1-1", "observed": true, "wafer": "w1", "x": 0, "y": 0}
+{"failed": null, "id": "w1-2", "observed": false, "wafer": "w1", "x": 0.6, "y": 0}
+{"failed": true, "id": "w1-3", "observed": true, "wafer": "w1", "x": 0, "y": 0.6}
+{"failed": true, "id": "w2-0", "observed": true, "wafer": "w2", "x": -0.6, "y": 0}
+{"failed": false, "id": "w2-1", "observed": true, "wafer": "w2", "x": 0, "y": 0}
+{"failed": null, "id": "w2-2", "observed": false, "wafer": "w2", "x": 0.6, "y": 0}
+{"failed": true, "id": "w2-3", "observed": true, "wafer": "w2", "x": 0, "y": 0.6}
+{"failed": null, "id": "w3-0", "observed": false, "wafer": "w3", "x": -0.6, "y": 0}
+{"failed": null, "id": "w3-1", "observed": false, "wafer": "w3", "x": 0, "y": 0}
+{"failed": null, "id": "w3-2", "observed": false, "wafer": "w3", "x": 0.6, "y": 0}
+{"failed": null, "id": "w3-3", "observed": false, "wafer": "w3", "x": 0, "y": 0.6}

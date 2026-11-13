@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "tables": {
+    "wafers": {
+      "file": "normal-wafers.jsonl",
+      "sha256": "85e090e0e79497fe804d599e34f6502370558a78299172cd5b0a4a254c74c1c3",
+      "bytes": 244,
+      "rows": 3,
+      "fields": [
+        "id",
+        "parent",
+        "product",
+        "campaign",
+        "notch_degrees"
+      ]
+    },
+    "sites": {
+      "file": "normal-sites.jsonl",
+      "sha256": "8e518e6589d9d136022136e1c289e0127308bac9e9f55a90cba10243ff067dce",
+      "bytes": 987,
+      "rows": 12,
+      "fields": [
+        "id",
+        "wafer",
+        "x",
+        "y",
+        "observed",
+        "failed"
+      ]
+    },
+    "labels": {
+      "file": "normal-labels.jsonl",
+      "sha256": "ae3f3583a772f5bc0c5654e50ec1a9feb2516e856bf136d01a6dba6d39450ad7",
+      "bytes": 91,
+      "rows": 2,
+      "fields": [
+        "id",
+        "wafer",
+        "type"
+      ]
+    }
+  }
+}
